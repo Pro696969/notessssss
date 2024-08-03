@@ -22,10 +22,10 @@
 
 ```
 
-## if you wish to contribute make sure to read [contibuting_guidelines](./Contributing.md) 
-## feel free to reach out to us 
+#### If you wish to contribute make sure to read [contibuting_guidelines](./Contributing.md) .
+#### Feel free to reach out to us .
 
-### discord ids -
+### Discord IDs :
 [KK](https://discord.com/users/404878527570247682/) <br>
 [Narayan](https://discord.com/users/717981427152584784/) <br>
 [Krishikesh](https://discord.com/users/7687401632106938410) <br>
