@@ -22,7 +22,7 @@
 
 ```
 
-#### If you wish to contribute make sure to read [contibuting_guidelines](./Contributing.md) .
+#### If you wish to contribute make sure to read [contibuting_guidelines](./CONTRIBUTING.md) .
 #### Feel free to reach out to us .
 
 ### Discord IDs :
