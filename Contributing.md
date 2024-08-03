@@ -1,8 +1,8 @@
 # Contributing to this Repo
 
-We appreciate your enthusiasm to contribute to this repository and here's how you can:
+> We appreciate your enthusiasm to contribute to this repository and here's how you can:
 1. Fork this Repo
-2. Clone this Repo
+2. Clone your fork 
 ```
 git clone <link to the fork>
 ```
@@ -24,6 +24,7 @@ git push origin <yourName>
 ## Points to note:
 
 - Credit the original authors.
+- Make sure to follow the file structure.
 - Follow the File naming convention `COURSE_U<unitNumber>_<authorName>`
 - Write meaningful and concise commit messages failing which your PR may be rejected.
 - No NSFW content on PRs will be accepted.
