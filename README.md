@@ -1,11 +1,12 @@
 # notes 
 ```
 .
-├── sem1
+├── sem1 (chem-cycle)
 │   ├── epd
 │   ├── math1
-│   └── mechanics
-├── sem2
+│   ├── mechanics
+│   └── python
+├── sem2 (phy-cycle)
 │   ├── eee
 │   └── math2
 ├── sem3
