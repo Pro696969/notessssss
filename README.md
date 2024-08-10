@@ -8,7 +8,8 @@
 │   └── python
 ├── sem2 (phy-cycle)
 │   ├── eee
-│   └── math2
+│   ├── math2
+│   └── phy
 ├── sem3
 │   ├── AFLL
 │   ├── DDCO
@@ -31,4 +32,10 @@
 [Narayan](https://discord.com/users/717981427152584784/) <br>
 [Krishikesh](https://discord.com/users/7687401632106938410) <br>
 
-### if you feel these notes helped you, consider staring this repo :D
+### If you feel these notes helped you, consider staring this repo :D
+
+### Other great resources :
+- [Vibha Masti](https://vibhamasti.github.io/notes.html)
+- [Abaksy](https://github.com/abaksy/pesu-cse-notes) 
+- [Gautham Atreyas](https://github.com/Shogunkayo/PES_Notes)
+- [Better Pes](https://better-pes.vercel.app/content)
