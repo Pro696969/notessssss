@@ -1,0 +1,32 @@
+31
+create_playlist
+create_music_queue
+add_song 1 -1
+add_song 2 -1
+add_song 3 -1
+add_song 4 -1
+add_song 5 4
+add_song 6 -2
+display_playlist
+delete_song 2
+display_playlist
+delete_song 4
+play_next
+display_playlist
+search_and_play 2
+play_previous
+insert_to_queue 1
+insert_to_queue 2
+search_and_play 3
+display_playlist
+shuffle 2
+display_playlist
+debug 5 6
+debug 5 3
+add_song 10 6
+add_song 11 3
+display_playlist
+shuffle 3
+display_playlist
+delete_playlist
+clear_music_queue

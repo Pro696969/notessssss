@@ -1,0 +1,12 @@
+4 5 3 2 1 6 
+4 5 3 1 6 
+Playing: 5
+5 3 1 6 
+Playing: 6
+Playing: 3
+5 3 1 6 
+3 5 6 1 
+No loop!
+Found cycle at: 3
+3 11 5 6 10 1 
+5 11 3 1 10 6
