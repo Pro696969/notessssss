@@ -128,3 +128,6 @@ Implementation file for all the music player platform operations (using the func
 1. `make -f makefile.mk compile` - Creates an executable.
 2. `make -f makefile.mk run` - Runs the executable.
 3. `make -f makefile.mk clean` - Deletes the executable and object files.
+
+
+Credits: PESU University
