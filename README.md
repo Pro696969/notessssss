@@ -9,7 +9,8 @@
 ├── sem2 (phy-cycle)
 │   ├── eee
 │   ├── math2
-│   └── phy
+|   ├── physics
+│   └── C
 ├── sem3
 │   ├── AFLL
 │   ├── DDCO
