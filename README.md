@@ -34,6 +34,7 @@
 [Krishikesh](https://discord.com/users/7687401632106938410) <br>
 
 ### If you feel these notes helped you, consider staring this repo :D
+[![starline](https://starlines.qoo.monster/assets/Pro696969/notessssss)](https://github.com/qoomon/starline)
 
 ### Other great resources :
 - [Vibha Masti](https://vibhamasti.github.io/notes.html)
