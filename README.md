@@ -1,30 +1,34 @@
 # notes 
 ```
-.
 ├── sem1 (chem-cycle)
 │   ├── epd
 │   ├── math1
 │   ├── mechanics
 │   └── python
 ├── sem2 (phy-cycle)
+│   ├── C
 │   ├── eee
 │   ├── math2
-|   ├── physics
-│   └── C
+│   └── phy
 ├── sem3
 │   ├── AFLL
 │   ├── DDCO
 │   ├── DSA
 │   ├── SDS
 │   └── WT
-└── sem4
-    ├── CN
-    ├── DAA
-    ├── LA
-    └── MPCA
-
+├── sem4
+│   ├── CN
+│   ├── DAA
+│   ├── LA
+│   ├── MPCA
+│   └── OS
+├── sem5
+│   ├── AC
+│   ├── DBMS
+│   └── ML
+└── sem6
+    └── CD
 ```
-
 #### If you wish to contribute make sure to read [contibuting_guidelines](./CONTRIBUTING.md) .
 #### Feel free to reach out to us .
 
